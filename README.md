@@ -38,3 +38,9 @@ OR
   1. Go to Stack Management > Saved Objects
   2. Click the Import button
   3. Select the NDJSON file
+
+### Sample Data Questions
+1. What three files was deleted at 1:04 PM on 4/23/2023?
+2. What happened to secret.txt at 8:36 PM?
+3. When was the NDA signed?
+*Hint: a new file was created when the NDA was signed*
